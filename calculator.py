@@ -8,6 +8,6 @@ def subtract(a, b):
 def multiply(a, b):
     return aXb
 
-def devide(a, b):
+def devide_premium(a, b):
     return a/b
 
